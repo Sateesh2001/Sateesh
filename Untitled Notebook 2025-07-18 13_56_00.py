@@ -7,7 +7,8 @@ print('sateesh')
 # MAGIC CREATE TABLE Employees (
 # MAGIC     id INT,
 # MAGIC     name VARCHAR(20),
-# MAGIC     salary INT
+# MAGIC     salary INT,
+            Designation VARCHAR(20)
 # MAGIC );
 
 # COMMAND ----------
